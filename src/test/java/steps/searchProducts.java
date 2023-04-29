@@ -43,7 +43,7 @@ public class searchProducts {
 	   System.out.println("=======================================================================================================");
 	   
 	   String title = driver.getTitle();
-	   System.out.println();
+	   System.out.println(title);
 	   
 	   
 	   System.out.println("==================my name is=====================================================================================");
