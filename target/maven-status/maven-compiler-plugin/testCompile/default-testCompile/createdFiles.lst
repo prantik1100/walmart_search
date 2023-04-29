@@ -1,0 +1,6 @@
+pages\package-info.class
+common\package-info.class
+steps\searchProducts.class
+steps\package-info.class
+runner\TestRunner.class
+runner\package-info.class
