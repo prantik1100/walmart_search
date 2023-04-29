@@ -29,7 +29,7 @@ public class searchProducts {
 	public void i_enter_the_in_the_search_box(String string) {
 		WebElement searchitem = driver.findElement(By.id("header-input-search"));
 		searchitem.sendKeys();
-		
+	
 	}
 
 	@When("i click search button")
@@ -43,10 +43,10 @@ public class searchProducts {
 	   System.out.println("=======================================================================================================");
 	   
 	   String title = driver.getTitle();
-	   System.out.println(title);
+	   System.out.println();
 	   
 	   
-	   System.out.println("=======================================================================================================");
+	   System.out.println("==================my name is=====================================================================================");
 	   driver.quit();
 	}
 }
