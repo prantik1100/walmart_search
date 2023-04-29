@@ -45,8 +45,10 @@ public class searchProducts {
 	   String title = driver.getTitle();
 	   System.out.println(title);
 	   
-	   
+	   //my name is argho
 	   System.out.println("=======================================================================================================");
 	   driver.quit();
+	   
+	   //////  hi hgow are u 
 	}
 }
